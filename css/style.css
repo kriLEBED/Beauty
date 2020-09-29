@@ -29,3 +29,8 @@ body{
     justify-content: space-between;
     align-items: center;
 }
+.logo{
+    color: #66C05D;
+    font-size: 36px;
+    font-weight: 700;
+}
