@@ -4,6 +4,12 @@ body{
     color: #333333;
     font-size: 14px;
 }
+.wrapper{
+    max-width: 1110px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+}
 .nav{
     display: flex;
     justify-content: center ;
@@ -17,4 +23,9 @@ body{
 .nav>li>a{
     text-decoration: none;
     color: #333333;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
