@@ -34,3 +34,13 @@ body{
     font-size: 36px;
     font-weight: 700;
 }
+.header-info span{
+    font-size: 16px;
+}
+.header-info button{
+    font-size: 14px;
+    border-radius: 20px;
+    background-color: transparent;
+    border: 2px solid  #66C05D;
+    padding: 10px 15px;
+}
