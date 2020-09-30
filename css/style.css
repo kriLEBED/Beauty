@@ -25,9 +25,13 @@ body{
     color: #333333;
 }
 .header{
+    background-color: #fff;
+}
+.header-top{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 10px 0;
 }
 .logo{
     color: #66C05D;
