@@ -37,6 +37,15 @@ body{
     color: #66C05D;
     font-size: 36px;
     font-weight: 700;
+    display: flex;
+    align-items: center;
+}
+.logo-image{
+    display: block;
+    width: 80px;
+    height: 80px;
+    background-image: url(../img/logo.svg.svg);
+    margin-right: 10px;
 }
 .header-info span{
     font-size: 16px;
