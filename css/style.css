@@ -162,6 +162,7 @@ hr{
 }
 .catalog{
     padding-top: 60px;
+    padding-bottom: 133px;
 }
 .grid{
     display: grid;
@@ -221,10 +222,20 @@ hr{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding-top: 25px;
+    padding-bottom: 23px;
+}
+.footer-info{
+    display: flex;
+    align-items: center;
 }
 .footer-info span{
     font-size: 16px;
-    margin-left: 36px;
+    margin-left: 103px;
+}
+.footer-info span:first-child{
+    font-size: 14px;
+    margin-left: 0;
 }
 .footer-info button{
     font-size: 14px;
@@ -250,8 +261,8 @@ hr{
 }
 .social-link{
     display: block;
-    width: 45px;
-    height: 45px;
+    width: 40px;
+    height: 40px;
     border: 2px solid #66C05D;
     border-radius: 100%;
     background-repeat: no-repeat;
@@ -273,7 +284,8 @@ hr{
     display: flex;
     justify-content: space-between;
     color: #828282;
-    padding: 15px 0;
+    padding: 26px 0;
+    font-size: 12px;
 }
 .footer-bottom p{
     margin: 0;
